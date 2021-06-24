@@ -1,6 +1,5 @@
 # Efficient Harbor Craft Monitoring System: Time-Series Data Analytics and Machine Learning Tools to Achieve Fuel Efficiency by Operational Scoring System
-
-## Featured in OMAE2021-62658 Conference  
+### Features in OMAE2021 Conference, paper number 62658  
 
 The aim is to build a knowledge base (KB) for various activities of a harbor craft.  
 The harbor crafts used as subject is a 4,000 BHP ASD tugboat from which a six-month dataset were collected.  
